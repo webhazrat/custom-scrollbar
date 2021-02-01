@@ -1,0 +1,5 @@
+section{
+    max-width: 500px;
+    height: 100vh;
+    overflow-y: auto;
+}
